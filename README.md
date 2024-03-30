@@ -1,17 +1,17 @@
-<h1 align="center">Hello there 👋, I'm Alejandro Castro Araya</h1>
-<h3 align="center">A diligent backend dev from Costa Rica</h3>
+<h1 align="center">Hi 👋, I'm Alejandro Castro Araya</h1>
+<h3 align="center">A diligent backend developer from Costa Rica</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alecastroaraya" alt="alecastroaraya" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust and Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alecastroaraya?tab=repositories](https://github.com/alecastroaraya?tab=repositories)
 
 - 💬 Ask me about **OOP, C# and Java**
 
-- 📫 How to reach me: **alejandrocastroaraya@gmail.com**
+- 📫 How to reach me **alejandrocastroaraya@gmail.com**
 
-- ⚡ Fun fact: **I love italian food**
+- ⚡ Fun fact **I love italian food and command-line interfaces!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
