@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **OOP, C# and Java**
 
-- 📫 How to reach me **alejandrocastroaraya@gmail.com**
+- 📫 You can reach me at: **alejandrocastroaraya@gmail.com**
 
-- ⚡ Fun fact **I love italian food and command-line interfaces!**
+- ⚡ Fun fact: **I love italian food and command-line interfaces.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
