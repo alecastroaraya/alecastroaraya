@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alecastroaraya?tab=repositories](https://github.com/alecastroaraya?tab=repositories)
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/alecastroaraya?tab=repositories) and at my [itch.io](https://alecastroaraya.itch.io)
 
 - 💬 Ask me about **OOP, C# and Java**
 
