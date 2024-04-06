@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alecastroaraya" alt="alecastroaraya" /></a> </p>
 
-- 🌱 I’m currently learning **Rust and Go**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alecastroaraya?tab=repositories](https://github.com/alecastroaraya?tab=repositories)
 
