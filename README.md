@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alecastroaraya" alt="alecastroaraya" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
-
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/alecastroaraya?tab=repositories) and at my [itch.io](https://alecastroaraya.itch.io)
 
 - 💬 Ask me about **OOP, C# and Java**
